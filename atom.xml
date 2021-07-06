@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loveydn.github.io</id>
     <title>清风飞语</title>
-    <updated>2021-04-19T04:20:29.147Z</updated>
+    <updated>2021-07-06T15:59:27.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loveydn.github.io"/>
     <link rel="self" href="https://loveydn.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://loveydn.github.io/images/avatar.png</logo>
     <icon>https://loveydn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 清风飞语</rights>
+    <entry>
+        <title type="html"><![CDATA[柔宝专用]]></title>
+        <id>https://loveydn.github.io/post/rou-bao-zhuan-yong/</id>
+        <link href="https://loveydn.github.io/post/rou-bao-zhuan-yong/">
+        </link>
+        <updated>2021-07-06T15:48:43.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快乐大本营20190810]]></title>
         <id>https://loveydn.github.io/post/kuai-le-da-ben-ying-20190810/</id>
